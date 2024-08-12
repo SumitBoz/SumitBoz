@@ -1,4 +1,5 @@
 ## Hi there 👋
+![logo](https://github.com/SumitBoz/SumitBoz/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
