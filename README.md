@@ -2,17 +2,17 @@
 ![logo](https://github.com/SumitBoz/SumitBoz/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="coding" width="600" height=""src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitboz&label=Profile%20views&color=0e75b6&style=flat" alt="sumitboz" /> </p>
 
-- 🌱 I’m currently learning **Backend , Restfull APIs,& major project**
+- 🌱 I’m currently learning **Full Stack & Dsa with java**
 
-- 👨‍💻 All of my projects are available at [JAVA, DSA with java, JavaScript, Css, Html](JAVA, DSA with java, JavaScript, Css, Html)
+- 👨‍💻 All of my projects are available at **<a href="https://github.com/SumitBoz">SumitBoz</a>**
 
-- 📫 How to reach me **SumitBoz**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/sumit-kumar-dubey-703767271/">Linkedin.</a>** || **<a href="https://github.com/SumitBoz">GitHub.</a>** 
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
