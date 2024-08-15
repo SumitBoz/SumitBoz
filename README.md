@@ -2,7 +2,7 @@
 ![logo](https://github.com/SumitBoz/SumitBoz/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
-<img align="right" alt="coding" width="600" height=""src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="coding" width="550" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitboz&label=Profile%20views&color=0e75b6&style=flat" alt="sumitboz" /> </p>
 
