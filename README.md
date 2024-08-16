@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://github.com/SumitBoz/SumitBoz/blob/main/Blue%20Futuristic%20Technology%20YouTube%20Thumbnail.png)
+![logo](https://github.com/SumitBoz/SumitBoz/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
 <img align="right" alt="coding" width="450"src="https://camo.githubusercontent.com/d3fcfe478a3a21468da489294ce1346ffbf7ed00877f290a2b477b9f7a734296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966">
