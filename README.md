@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/2150f02e-bab5-4f2c-8313-3b0ddcd2bbd1))
+![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/2150f02e-bab5-4f2c-8313-3b0ddcd2bbd1)
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
