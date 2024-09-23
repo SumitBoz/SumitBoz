@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar Dubey</h1>
 <h3 align="center">Passionate Web Developer | Turning Ideas into Interactive, Responsive Web Experiences</h3>
-<img align="right" alt="coding" width="450"src="https://camo.githubusercontent.com/d3fcfe478a3a21468da489294ce1346ffbf7ed00877f290a2b477b9f7a734296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966">
+<img align="right" alt="coding" width="450"src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitboz&label=Profile%20views&color=0e75b6&style=flat" alt="sumitboz" /> </p>
 
